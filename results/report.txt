@@ -1,0 +1,8 @@
+=== RAPPORT STATISTIQUE DE LA CLASSE ===
+
+Moyenne de la classe (Mean) : 10.75
+Médiane (Median) : 10.89
+Écart-type (Standard Deviation) : 3.24
+Moyenne minimum : 4.08
+Moyenne maximum : 14.82
+Âge moyen (Mean Age) : 22.4 ans
